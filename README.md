@@ -1,5 +1,7 @@
 # spring-data-jpa-course
 
+![Alt Text](/src/main/resources/images/certificate.png)
+
 ## Course Description
 
 - What is Spring Data JPA
