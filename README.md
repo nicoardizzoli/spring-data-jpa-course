@@ -1,4 +1,4 @@
-# spring-data-jpa-course
+# SPRING DATA JPA COURSE
 
 ![Alt Text](/src/main/resources/images/certificate.png)
 
